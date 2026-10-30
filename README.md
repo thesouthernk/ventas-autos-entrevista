@@ -1,6 +1,6 @@
 # Ventas de autos — entrevista
 
-Dataset de 60 ventas de una red de automotoras ficticia (2025).
+Dataset de 100 ventas de una red de automotoras ficticia (2025).
 
 ## Datos
 
